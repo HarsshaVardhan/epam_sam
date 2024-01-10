@@ -1,1 +1,3 @@
 samm_one (tem)
+#inlcude<stdio.h>
+
